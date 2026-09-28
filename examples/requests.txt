@@ -1,0 +1,5 @@
+# <missionType> <controllerSpec> <swLat,swLon> <neLat,neLon>
+map    sim:demo       48.1000,71.4000 48.1010,71.4020
+spray  vendor:UN-4471 48.1000,71.4000 48.1010,71.4020
+patrol file:out/patrol-plan.txt 48.1000,71.4000 48.1010,71.4020
+spray  ghost:x        48.1000,71.4000 48.1010,71.4020
